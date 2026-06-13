@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="TuBebe.BD/TuBebe.BD.csproj" />
+  <Project Path="TuBebe.Repositorio/TuBebe.Repositorio.csproj" />
+  <Project Path="TuBebe.Servicios/TuBebe.Servicios.csproj" />
+  <Project Path="TuBebe.Shared/TuBebe.Shared.csproj" />
+  <Project Path="TuBebe/TuBebe.Client/TuBebe.Client.csproj" />
+  <Project Path="TuBebe/TuBebe/TuBebe.csproj" />
+</Solution>
