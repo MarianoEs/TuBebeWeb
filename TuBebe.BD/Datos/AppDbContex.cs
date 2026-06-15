@@ -10,7 +10,7 @@ namespace TuBebe.BD.Datos
     {
         public DbSet<Pantalon> Pantalones { get; set; }
 
-        public AppDbContext(DbContextOptions options) : base(options) 
+        public AppDbContex(DbContextOptions options) : base(options) 
         { }
 
 
